@@ -1,0 +1,46 @@
+services:
+  - type: web
+    name: wandyoai-backend
+    runtime: node
+    plan: starter
+    buildCommand: cp backend-package.json package.json && npm install && npm run build
+    startCommand: npm run start:prod
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 5000
+      - key: HOST
+        value: 0.0.0.0
+      - key: JWT_SECRET
+        generateValue: true
+      - key: DATABASE_URL
+        fromDatabase:
+          name: wandyoai-postgres
+          property: connectionString
+      - key: REDIS_URL
+        fromService:
+          type: redis
+          name: wandyoai-redis
+          property: connectionString
+      - key: CORS_ORIGIN
+        value: https://your-frontend.vercel.app
+      - key: TYPESENSE_API_KEY
+        value: your-typesense-api-key
+      - key: TYPESENSE_HOST
+        value: your-typesense-host
+      - key: QDRANT_URL
+        value: your-qdrant-url
+      - key: QDRANT_API_KEY
+        value: your-qdrant-api-key
+    healthCheckPath: /health
+
+databases:
+  - name: wandyoai-postgres
+    databaseName: wandyoai
+    user: wandyoai_user
+    plan: starter
+
+  - name: wandyoai-redis
+    type: redis
+    plan: starter
