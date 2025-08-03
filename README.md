@@ -9,7 +9,7 @@
 
 ##  Vision
 
-WandyoAI transforms the global research landscape by creating the world's first **AI Research Operating System**. We're building a platform where 10 million researchers worldwide can collaborate seamlessly, and 100 million curious minds can participate in advancing human knowledge.
+WandyoAI transforms the global research landscape by creating the world's first **AI Research Operating System**. We are building a platform where 10 million researchers worldwide can collaborate seamlessly, and 100 million curious minds can participate in advancing human knowledge.
 
 **Our Mission**: Make AI research as accessible as creating a Google Doc, as collaborative as GitHub, and as powerful as a top-tier research lab.
 
@@ -273,7 +273,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Founder & CEO**: David Sanyu  
 **Email**: sanyudavid20@gmail.com
-**Website**: https://wandyoai.com (To be our domain name) 
+**Website**: https://wandyoai.com
 **Y Combinator Application**: Fall 2025
 
 ---
