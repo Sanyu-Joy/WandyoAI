@@ -117,8 +117,8 @@ npm run frontend:dev   # Frontend server (port 3000)
 ```
 
 ### 5. Access the Platform
-- **Frontend**: http://localhost:3000
-- **Backend API**: http://localhost:5000
+- **Frontend**: Vercel
+- **Backend API**: Render
 - **API Documentation**: http://localhost:5000/api/docs
 
 ##  Available Scripts
@@ -199,28 +199,28 @@ ws://localhost:5000/ws/collaboration/{collaborationId}
 - ✅ Real-time collaboration
 - ✅ Revolutionary social features
 
-###  **Phase 2: User Experience Revolution** *(Q1 2025)*
+###  **Phase 2: User Experience Revolution** *(Q4 2025)*
 -  Advanced voice interfaces with conversation memory
 -  Mobile-first research assistant app
 -  Multi-language support (10+ languages)
 -  Personalized research dashboards
 -  Advanced analytics and insights
 
-###  **Phase 3: Global Collaboration** *(Q2-Q3 2025)*
+###  **Phase 3: Global Collaboration** *(Q1-Q2 2026)*
 -  University and institution partnerships
 -  Research competition platform
 -  Expert mentorship marketplace
 -  Virtual research labs
 -  Publication and peer review system
 
-###  **Phase 4: AI Research Democratization** *(Q4 2025-Q1 2026)*
+###  **Phase 4: AI Research Democratization** *(Q3-Q4 2026)*
 -  AI research agent with autonomous capabilities
 -  Automated experiment design and execution
 -  Predictive research trend analysis
 -  Enterprise research workflow automation
 -  Open science initiative and data sharing
 
-###  **Phase 5: Market Expansion** *(2026)*
+###  **Phase 5: Market Expansion** *(2027)*
 -  Enterprise research solutions
 -  Educational institution licensing
 -  Government and policy research tools
@@ -275,10 +275,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Founder & CEO**: David Sanyu  
 **Email**: sanyudavid20@gmail.com
 **Website**: https://wandyoai.com (To be our domain name) 
-**Y Combinator Application**: Winter 2025
+**Y Combinator Application**: Fall 2025
 
 ---
 
-**Building the future of AI research, one collaboration at a time.** 🚀
+**Building the future of AI research, one collaboration at a time.** 
 
 *WandyoAI - Where curiosity meets intelligence, and research meets the world.*
