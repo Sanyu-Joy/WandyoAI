@@ -272,9 +272,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Founder & CEO**: [Your Name]  
-**Email**: founder@wandyoai.com  
-**Website**: https://wandyoai.com  
+**Founder & CEO**: David Sanyu  
+**Email**: sanyudavid20@gmail.com
+**Website**: https://wandyoai.com (To be our domain name) 
 **Y Combinator Application**: Winter 2025
 
 ---
