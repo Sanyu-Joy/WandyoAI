@@ -268,7 +268,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Research community for inspiration and feedback
 - Open source AI models powering our intelligence layer
-- Y Combinator for supporting ambitious research democratization
 
 ##  Contact
 
