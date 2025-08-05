@@ -21,13 +21,13 @@ Core Problem Statement:
 
 Specific Pain Points:
 1. Research Isolation Crisis
-85% of researchers can't find relevant collaborators
-Groundbreaking insights trapped in institutional silos
+85% of researchers can't find relevant collaborators.
+Groundbreaking insights trapped in institutional silos.
 No unified platform for global research teamwork
 
 2. Discovery & Access Friction
-Average researcher spends 40% of time just finding relevant papers
-Knowledge locked behind academic paywalls and complex systems
+Average researcher spends 40% of time just finding relevant papers.
+Knowledge locked behind academic paywalls and complex systems.
 Advanced AI tools cost $50K-$500K annually, excluding most researchers
 
 3. Innovation Inequality
